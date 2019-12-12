@@ -1,0 +1,8 @@
+{
+  "name": "weoil-uni-simple-router-fix",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/weoil/uni-simple-router.git",
+  "author": "weoil <weoil@live.cn>",
+  "license": "MIT"
+}

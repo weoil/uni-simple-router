@@ -1,5 +1,6 @@
-# uni-simple-router
+# 修复beforeEach钩子只触发一次的问题
 
+# uni-simple-router
 > 一个更为简洁的[Vue-router](https://router.vuejs.org/zh/)，专为 [uni-app](https://uniapp.dcloud.io/) 量身打造
 
 ## 介绍
